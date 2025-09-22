@@ -25,7 +25,7 @@ console.log(a);
 
 a = 7857;
 console.log(typeof a);
-name = "navya";
+name = "Navya";
 console.log(typeof name);
 
 data = null;
@@ -34,6 +34,14 @@ d = undefined;
 console.log(typeof d);
 
 //non-primitive
+array = [56,"Navya",true,null];
+console.log(typeof array);
+obj = (
+    name: "Navya",
+    age: "19"
+    dept: "aiml",
+);
+console.log(typeof data);
 
 
 
