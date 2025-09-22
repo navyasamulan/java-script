@@ -11,6 +11,29 @@ const c = 78;
 
 console.log('value b is $(b)');
 console.log('value c is $(b)');
-
 console.log(a);
+
+//comment
+
+//commit used to understand the code by other developer
+//data types
+//1.primitive 2.non-primitive
+//primitive-number,string,boolean,null,undefined
+//non-primitive-Array,object
+//type of() know the type of data
+//this,window commands to display the functions of js
+
+a = 7857;
+console.log(typeof a);
+name = "navya";
+console.log(typeof name);
+
+data = null;
+console.log(typeof data);
+d = undefined;
+console.log(typeof d);
+
+//non-primitive
+
+
 
